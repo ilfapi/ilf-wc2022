@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40c732be.css",
+    "main.js": "/static/js/main.8ad379cd.js",
+    "static/js/787.2aefd273.chunk.js": "/static/js/787.2aefd273.chunk.js",
+    "static/media/i-love-football-sticker.png": "/static/media/i-love-football-sticker.8e0fcca27937d3da869e.png",
+    "index.html": "/index.html",
+    "main.40c732be.css.map": "/static/css/main.40c732be.css.map",
+    "main.8ad379cd.js.map": "/static/js/main.8ad379cd.js.map",
+    "787.2aefd273.chunk.js.map": "/static/js/787.2aefd273.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c732be.css",
+    "static/js/main.8ad379cd.js"
+  ]
+}
